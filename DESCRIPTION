@@ -15,3 +15,5 @@ Imports:
     pkg.remote
 Remotes:
     ijlyttle/pkg.remote
+URL: https://github.com/ijlyttle/pkg.use.github
+BugReports: https://github.com/ijlyttle/pkg.use.github/issues
